@@ -34,7 +34,7 @@ Python
 Flask, Heroku
 
 ### Predictions
-K-Nearest Neighbors, word-vectorization
+K-Nearest Neighbors, Natural Language Processing
 
 ### Role
 -   Chase Goldberg: Data Engineer
