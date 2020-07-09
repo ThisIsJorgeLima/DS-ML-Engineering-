@@ -20,8 +20,10 @@ Documents: are constructed by string representations of Strain,Effects, and Flav
     - Train our embeddings on data points
     - The docs are vectorized 
     - A function is defined to take a text, searches the space, and returns three closest matches.
+    
 <br>
 The data was trained on a K Nearest Neighbors model. After trying various word-vectorization techniques, We found the Basilica embeddings to be the most accurate.
+
 <br>
 The user has access to the recommender, where they can enter in a text box what they are looking for, whether it be for medical or recreational use. Five recommended strains will be returned, and the user can then read additional information about the strain and then save various strains to their med cabinet. The user may also search the database for strains based on different features.
 
