@@ -41,8 +41,8 @@ K-Nearest Neighbors, word-vectorization t
 [data](https://github.com/ThisIsJorgeLima/DS-ML-Engineering-/tree/master/Med-Cabinet-2/Data)
 
 ### Python Notebooks
-[data engineering repo](https://github.com/Med-Cabinet-2/DS--Data-Engineering-)
-[machine learning notebook](https://github.com/ThisIsJorgeLima/DS-ML-Engineering-/tree/master/Med-Cabinet-2/DS-ML-Engineering-/Notebooks)
+- [data engineering repo](https://github.com/Med-Cabinet-2/DS--Data-Engineering-)
+- [machine learning notebook](https://github.com/ThisIsJorgeLima/DS-ML-Engineering-/tree/master/Med-Cabinet-2/DS-ML-Engineering-/Notebooks)
 
 ### How to connect to the data API
 [API](https://intuitive-med-cab.herokuapp.com/)
