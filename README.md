@@ -14,7 +14,7 @@
 Project completed in four days on a crossfunctional team of eight that included data science and web development, students.
 <br>
 <br>
-Recommend Five strains based on strain, effects, and flavors proposed by app user.
+Recommend Five based on strain, effects, and flavors proposed by app user.
 Documents: are constructed by string representations of Strain,Effects, and Flavors. 
     - Extract usable features from high-dimensional data via Basilica
     - Train our embeddings on data points
