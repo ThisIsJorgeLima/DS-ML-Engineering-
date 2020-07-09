@@ -9,11 +9,13 @@
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/chase-goldfeld/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jorgelima) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/judtaylor/) | 
 <br>
 <br>
+
 ## Project Overview
 Project completed in four days on a crossfunctional team of eight that included data science and web development, students.
+
 <br>
 Recommend Five strains based on strain, effects, and flavors proposed by app user.
-Documents: are constructed by string representations of **Strain**, **Effects**, and **Flavors**. 
+Documents: are constructed by string representations of Strain,Effects, and Flavors. 
     - Extract usable features from high-dimensional data via Basilica
     - Train our embeddings on data points
     - The docs are vectorized 
@@ -30,7 +32,7 @@ Python
 Flask, Heroku
 
 ### Predictions
-K-Nearest Neighbors, word-vectorization t
+K-Nearest Neighbors, word-vectorization
 
 ### Role
 -   Chase Goldberg: Data Engineer
